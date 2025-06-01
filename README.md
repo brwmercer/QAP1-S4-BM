@@ -25,4 +25,6 @@ JUnit 5 is used to test and veify main functionalities. The tests are as followe
 The project required the JUnit 5 Maven dependency to ensure effective and efficient testing can be regularly completed.
 I used this dependency from examples given in class.
 
-   
+## Github Actions
+
+Added github actions to ensure testing is completed after every pull request
