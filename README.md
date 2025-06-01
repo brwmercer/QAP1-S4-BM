@@ -1,6 +1,6 @@
 # Java Bank Project
 
-This simple cli java application usese effective testing and clean code (screenshots found in folder)
+This simple cli java application uses effective testing and clean code (screenshots found in folder)
 
 ## Testing
 
