@@ -28,3 +28,7 @@ I used this dependency from examples given in class.
 ## Github Actions
 
 Added github actions to ensure testing is completed after every pull request
+
+## Encountered Problems
+
+Majority of QAP was smooth sailing, only trouble I ran into was committing to github from IntelliJ from school computer. Had to commit main project directly through github at the end.
